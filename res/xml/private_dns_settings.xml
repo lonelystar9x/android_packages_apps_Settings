@@ -33,6 +33,7 @@
         android:title="@string/vpn_enforce_dns_title"
         android:order="20"
         android:summary="@string/vpn_enforce_dns_summary"
-        android:defaultValue="false" />
+        android:defaultValue="false"
+        settings:position="none"/>
 
 </PreferenceScreen>
