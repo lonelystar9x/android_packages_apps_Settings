@@ -645,7 +645,8 @@
             android:key="unlimit_screenrecord"
             android:title="@string/unlimit_screenrecord_title"
             android:summary="@string/unlimit_screenrecord_summary"
-            android:defaultValue="false" />
+            android:defaultValue="false"
+            settings:position="none"/>
 
         <Preference
             android:key="transcode_settings"

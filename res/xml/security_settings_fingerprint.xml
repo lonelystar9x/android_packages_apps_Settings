@@ -86,7 +86,8 @@
             android:key="fingerprint_lockout"
             android:title="@string/fingerprint_lockout_title"
             android:summary="@string/fingerprint_lockout_summary"
-            android:defaultValue="false" />
+            android:defaultValue="false"
+            settings:position="none"/>
     </PreferenceCategory>
 
     <PreferenceCategory

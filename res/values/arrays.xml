@@ -83,7 +83,7 @@
     </string-array>
 
     <string-array name="connectivity_check_entries">
-        <item>Disabled</item>
+        <item>@string/string_disabled</item>
         <item>Amazon Fire OS (US)</item>
         <item>Cloudflare (US)</item>
         <item>Google (US) [default]</item>
